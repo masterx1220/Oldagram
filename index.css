@@ -4,6 +4,7 @@ html, body {
     width: 375px;
     font-family: 'Source Sans Pro', sans-serif;
     overflow-x: hidden;
+    background: #0f0f0f
     /* overflow-y: hidden;  */
     
 }
