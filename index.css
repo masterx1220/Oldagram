@@ -1,5 +1,5 @@
 html, body {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     width: 375px;
     font-family: 'Source Sans Pro', sans-serif;
@@ -72,5 +72,5 @@ span{
 
 .commentSection{
     padding: 10px;
-/*     margin-top: -10px */
+    margin-top: -50px
 }
